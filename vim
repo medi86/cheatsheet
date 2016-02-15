@@ -24,3 +24,4 @@ $ to go to the last character
 << for outdenting a line
 o for going into insert mode on the next line
 
+"+yy copy a line
