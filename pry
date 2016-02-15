@@ -1,0 +1,21 @@
+
+ How to specify a method
+  'some_obj.metod' Call the method on the object
+  'someClass#instance_method' Call the method on instances of the class
+  'require 'pry'; binding.pry  hotkey = \p
+
+commands
+
+help - See what commands you can run
+whereami - Show code surrounding the current context.
+! - Clear the input buffer, use when you typed something incorrectly and want to get out of it
+ls -v obj - Show all the methods and variables on other objects
+show-source - Show the source for a method or class. SUPER USEFUL!!
+cd obj - Change context into obj (sets self to that object)
+cd .. - Change context back out of that object.
+ls -v - Show all the methods and variables on self
+edit - Allows you to edit code without rerunning the program. I use it to put another pry into a method that I'm about to call.
+exit - Quit out of current pry session. C-D also works.
+exit! - Quit the program
+
+

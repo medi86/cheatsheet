@@ -1,0 +1,64 @@
+integeru
++ adds two value
+- subtract
+< less than
+== comparison
+ > greater than
+ <= lesser or equal to
+ >= greater or equal to
+ to_f makes it float
+
+Array
+
++  adds
+ - subtract
+ << pushes
+ [] grabs by num 0....9
+ length get length
+ join   merge
+ pop    take element off from right
+ shift  take element off from left
+ each   do each of elements to command
+
+Booleans
+
+&&  and, if one of value is false or nil result false
+ || or, if any of value is equal than result equal
+ if if statement
+ unless unless statement
+
+String
+
+length get numbers of strings
+ +     combine strings
+ ==    comparison
+ []    show char by num
+ []=
+ chars get each char by '' form
+ chomp delete empty space?
+ upcase uppercase
+ downcase downcase
+ empty? check if its empty
+ include? ?
+ subgsub ?
+ scan scan words
+
+Float
+
++ add
+ - subtract
+ < less than
+ == equal?
+ > greater than
+ <= lesser or equal
+ >= greater or equal
+ to_i to int
+
+Hash
+[] get value by number or key
+ []= ?
+ delete delete ..?
+ each each do something
+ fetch
+ key? asks hash if it contains certain key
+

@@ -1,0 +1,10 @@
+40 + 40  # => 80
+
+[b,c,r].class  # ~> NameError: undefined local variable or method `b' for main:Object
+
+# ~> NameError
+# ~> undefined local variable or method `b' for main:Object
+# ~>
+# ~> /tmp/seeing_is_believing_temp_dir20160204-6898-14az9c5/program.rb:3:in `<main>'
+
+

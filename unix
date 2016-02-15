@@ -1,0 +1,33 @@
+
+# unix cheatsheets
+
+pwd - shows what folder you are in now
+
+cd - change directory
+
+ls -shows whats inside the folder that you are in
+
+   -a :shows everything(include hidden) -f : make it lists sytle
+
+rm - remove file, folder
+
+
+ln - creates a link (acts like a shortcut)
+     ex) ln a.rb kkk
+        vim kkk would bring a.rb into vim
+
+mkdir - creates a folder
+
+
+curl - see what's inside the url
+    -i, --include       Include protocol headers in the output (H/F)
+
+
+cat - 1. shows what's inside a file
+         ex) cat homework.rb
+      1-1. can pull up multiple files
+        ex) cat homework.rb homework2.rb
+
+
+
+
